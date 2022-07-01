@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xdroid_CPH1859.mk
+    $(LOCAL_DIR)/lineage_CPH1859.mk
